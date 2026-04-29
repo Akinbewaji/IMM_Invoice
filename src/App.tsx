@@ -1,4 +1,5 @@
 import { CommercialInvoice } from "./components/CommercialInvoice";
+import { Analytics } from "@vercel/analytics/next";
 
 export default function App() {
   return (
